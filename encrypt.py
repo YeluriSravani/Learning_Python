@@ -1,7 +1,7 @@
 #Write a python function, encrypt_sentence() which accepts a message and encrypts it based on rules given below and returns the encrypted message.
 #Words at odd position -> Reverse It
 #Words at even position -> Rearrange the characters so that all consonants appear before the vowels and their order should not change
-
+#lex_auth_01269444195664691284
 def encrypt_sentence(sentence):
     #start writing your code here
     list=[]
