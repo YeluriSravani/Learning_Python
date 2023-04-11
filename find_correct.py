@@ -8,7 +8,7 @@
 
 #and return a list containing the number of CORRECT answers, number of ALMOST CORRECT answers and number of WRONG answers. 
 #Assume that the words contain only uppercase letters and the maximum word length is 10.
-
+#lex_auth_01269444890062848087
 def find_correct(word_dict):
     #start writing your code here
     count=0
