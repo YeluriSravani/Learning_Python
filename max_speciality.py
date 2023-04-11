@@ -6,7 +6,7 @@
 #} 
 
 #Write a function to find the medical speciality visited by the maximum number of patients and return the name of the speciality.
-
+#lex_auth_012693816757551104165
 
 def max_visited_speciality(patient_medical_speciality_list,medical_speciality):
     # write your logic here
