@@ -1,5 +1,5 @@
 #Write a python program to display all the common characters between two strings. Return -1 if there are no matching characters.
-
+#lex_auth_012693825794351104168
 def find_common_characters(msg1,msg2):
     #pass #Remove pass and write your logic here
     common=''
